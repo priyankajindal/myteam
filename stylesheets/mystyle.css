@@ -1,0 +1,34 @@
+
+body {
+  margin-top: 5px;
+}
+
+.jumbotron {
+
+ background-color: white;
+ font-family: cursive;
+ font-size: 6px;
+ padding-top: 5px;
+  
+}
+
+.style {
+
+font-size: 30px;
+ color: darkblue;
+
+}
+
+.datestyle {
+
+font-size: 15px;
+ color: orange;
+
+}
+
+.teamstyle {
+
+font-size: 15px;
+ color: black;
+
+}
